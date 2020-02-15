@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spaces>
+    <region name="af">
+        <layer name="address">
+            <area name="">
+                <admin name="admin" base="true" delta="true"/>
+                <country name="bwa" base="true" delta="true">
+                    <state name="bw" base="false" delta="true"/>
+                </country>
+                <country name="lso" base="true" delta="true">
+                    <state name="ls" base="false" delta="true"/>
+                </country>
+                <country name="egy" base="true" delta="true">
+                    <state name="eg" base="false" delta="true"/>
+                </country>
+                <country name="nam" base="true" delta="true">
+                    <state name="na" base="false" delta="true"/>
+                </country>
+                <country name="swz" base="true" delta="true">
+                    <state name="sz" base="false" delta="true"/>
+                </country>
+                <country name="zaf" base="true" delta="true">
+                    <state name="za" base="false" delta="true"/>
+                </country>
+            </area>
+        </layer>
+        <layer name="poi">
+            <area name="">
+                <country name="bwa" base="false" delta="true">
+                    <state name="bw" base="false" delta="true"/>
+                </country>
+                <country name="lso" base="false" delta="true">
+                    <state name="ls" base="false" delta="true"/>
+                </country>
+                <country name="egy" base="false" delta="true">
+                    <state name="eg" base="false" delta="true"/>
+                </country>
+                <country name="nam" base="false" delta="true">
+                    <state name="na" base="false" delta="true"/>
+                </country>
+                <country name="swz" base="false" delta="true">
+                    <state name="sz" base="false" delta="true"/>
+                </country>
+                <country name="zaf" base="false" delta="true">
+                    <state name="za" base="false" delta="true"/>
+                </country>
+            </area>
+        </layer>
+    </region>
+</spaces>
